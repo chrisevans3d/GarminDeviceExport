@@ -1,0 +1,15 @@
+[general]
+name=GarminDeviceExport
+qgisMinimumVersion=3.16
+qgisMaximumVersion=3.99
+version=2.3.0
+author=Chris Evans
+email=chris.evans@gmail.com
+about=Export any raster layer into a KMZ composed of JPEG tiles (≤1MP and ≤3MB each). Choose eTrex (≤100), GPSMAP (≤500), or enter a custom tile cap.
+plugin_type=python
+category=Raster
+experimental=True
+hasProcessingProvider=yes
+homepage=
+repository=
+tracker=
