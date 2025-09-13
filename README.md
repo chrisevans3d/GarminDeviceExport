@@ -15,8 +15,8 @@ The plugin automatically resamples and tiles your raster so that the total numbe
 
 - **Device-aware tiling**  
   Choose a target device:
-  - **eTrex** (≤100 tiles)
-  - **GPSMAP** (≤500 tiles)
+  - **Garmin eTrex, Monterra** (≤100 tiles)
+  - **Garmin GPSMAP, Montana, Oregon** (≤500 tiles)
   - **Custom** (enter your own maximum tile count)
 
 - **Resampling to fit device limits**  
@@ -24,9 +24,9 @@ The plugin automatically resamples and tiles your raster so that the total numbe
 
 - **KML metadata**  
   - The `<name>` in the KML is set to the QGIS raster layer’s name.  
-  - The `<description>` includes attribution:  
+  - The `<description>` includes attribution and num tiles:  
     ```
-    QGIS GarminDeviceExport by Chris.Evans@gmail.com – N tiles
+    QGIS GarminDeviceExport – N tiles
     ```
     where `N` is the number of tiles in the KMZ.
 
