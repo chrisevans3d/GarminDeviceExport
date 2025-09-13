@@ -1,6 +1,6 @@
-# GeoResizer QGIS Plugin
+# GarminDeviceExport QGIS Plugin
 
-**GeoResizer** is a QGIS Processing plugin that exports any raster layer to a **Google Earth KMZ** with tiling optimized for Garmin GPS devices.  
+**GarminDeviceExport** is a QGIS Processing plugin that exports any raster layer to a **Google Earth KMZ** with tiling optimized for Garmin GPS devices.  
 
 Each tile is:
 - JPEG @ quality **75** (non-progressive, baseline)
