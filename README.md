@@ -69,3 +69,7 @@ The plugin automatically resamples and tiles your raster so that the total numbe
 ## License
 
 MIT License © 2025 Chris Evans
+
+⚠️ Note: Parts of this plugin were generated with the assistance of a Large Language Model (LLM).  
+The code was reviewed, adapted, and tested by the project maintainer.
+
